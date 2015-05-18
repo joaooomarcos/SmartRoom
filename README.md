@@ -10,6 +10,9 @@ Prof. Ivair
 
 O projeto consiste na automatização de uma sala de uso geral, para o acesso a sala é necessário colocar a senha e com isso a porta se abre, e é iniciada a automatização do ambiente.
 
+Vídeo do YouTube:
+https://www.youtube.com/watch?v=F9CwQO_RDDY
+
 Sensores Utilizados:
 - Sensor de Chuva
 - Sensor DHT11 (Temperatura e Umidade)
